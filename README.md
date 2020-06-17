@@ -10,6 +10,7 @@
 ### 参考资料
 
 * [AMD OS X VANILLA GUIDE](https://vanilla.amd-osx.com/) - The AMD OS X Vanilla guide uses Kernel binary patches to enable native AMD CPU support on macOS .
+* [Ryzen and Threadripper(17h)](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) - 超级全面的英文教程，更新及时
 * [_All-in-one-Vanilla-AMD-Hackintosh-Guide_](https://github.com/doesprintfwork/All-in-one-Vanilla-AMD-Hackintosh-Guide/blob/master/prerequisites/get-started/gathering-kexts.md) - AMD平台必备的kexts.
 * [保姆级黑苹果教程](https://zhuanlan.zhihu.com/p/135387622) - 步骤详细，让你的Ryzen+A卡用上最新版本的MacOS.
 * [黑果小兵精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html) - 详细了解OpenCore各项配置.
