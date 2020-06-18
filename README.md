@@ -31,6 +31,7 @@
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [NullCPUPowerManagement](https://github.com/corpnewt/NullCPUPowerManagement)
 * [VoodooHDA](https://sourceforge.net/p/voodoohda/code/HEAD/tree/)
+* [Innie](https://forums.macrumors.com/threads/innie-a-fix-for-pci-drives-seen-as-external.2136229/)
 
 ## Drivers地址
 * [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) - VBoxHfs.efi.
