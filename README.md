@@ -44,3 +44,12 @@
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - 下载官方的macOS镜像并制作安装U盘.
 * [ProperTree](https://github.com/corpnewt/ProperTree) - 编辑config.plist的工具.
 * [Etcher](https://www.balena.io/etcher/) - 写入DMG到U盘的工具.
+
+
+### 解决第三方软件与OS X 不兼容的问题
+
+打开终端，执行sudo spctl --master-disable 然后输入你自己的开机密码
+在输入這段指令sudo mount -uw /輸入密碼
+之後再输入這段
+killall Finder
+注意F要大寫
