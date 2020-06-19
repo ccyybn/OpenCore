@@ -48,8 +48,10 @@
 
 ### 解决第三方软件与OS X 不兼容的问题
 
+```
 打开终端，执行sudo spctl --master-disable 然后输入你自己的开机密码
 在输入這段指令sudo mount -uw /輸入密碼
 之後再输入這段
 killall Finder
 注意F要大寫
+```
