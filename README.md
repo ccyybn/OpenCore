@@ -1,13 +1,13 @@
-# OpenCore 0.5.9
+# OpenCore 0.6.1
 
-### 测试平台 
+## 测试平台 
 
 * ASUS X570-PRO 
 * AMD Ryzen 7 3700X 
 * Radeon RX 5700 XT
 * macOS Catalina 10.15.5 (19F101)(- 001-12336 - Added 2020-06-01 17:23:54)
 
-### 参考资料
+## 参考资料
 
 * [AMD OS X VANILLA GUIDE](https://vanilla.amd-osx.com/) - The AMD OS X Vanilla guide uses Kernel binary patches to enable native AMD CPU support on macOS .
 * [Ryzen and Threadripper(17h)](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html) - 超级全面的英文教程，更新及时
@@ -16,7 +16,7 @@
 * [黑果小兵精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html) - 详细了解OpenCore各项配置.
 * [EFI-ASUS-B250M](https://github.com/lichongjia/EFI-ASUS-B250M/releases) - 一个华硕B250M主板平台的成熟配置可作为参考.
 
-### Kexts地址
+## Kexts地址
 
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
 * [FakeSMC](https://github.com/RehabMan/OS-X-FakeSMC-kozlek)
@@ -37,7 +37,7 @@
 * [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - HfsPlus.efi
 * [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) - VBoxHfs.efi
 
-### 工具地址
+## 工具地址
 
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - OpenCore的官方版本.
 * [SSDTTime](https://github.com/corpnewt/SSDTTime) - 生成SSDT-EC.aml的工具.
@@ -47,7 +47,7 @@
 * [Etcher](https://www.balena.io/etcher/) - 写入DMG到U盘的工具.
 
 
-### 解决第三方软件与OS X 不兼容的问题
+## 解决第三方软件与OS X 不兼容的问题
 
 ```
 打开终端，执行sudo spctl --master-disable 然后输入你自己的开机密码
